@@ -10,11 +10,11 @@
 | Nome              |Matrícula   | GitHub          | E-mail                          |
 |-------------------|------------|-----------------|---------------------------------|
 |  Dâmaso Júnio    | 17/0031438 | juniopereirab     |  junio.pereirab@gmail.com    |
+| Emanuel Holanda  |    13/0025291  |  manuengsf   |   emanuelhbga@gmail.com   |
 | Gabriela Lemos    | 17/0010872 | heylisten64   |  gabriela.leemoss@gmail.com  |
+| Iuri Severo        | 17/0145514  | iurisevero       | nobreiuri@gmail.com   |
 | Letícia Karla       | 15/0135939 | leticiaarj     |   leticiards.04@gmail.com |
 | Pedro Igor Silva    | 17/0062635 | pedroeagle        |      pedroigor.silva@outlook.com  |
-| Iuri Severo        | 17/0145514  | iurisevero       | nobreiuri@gmail.com   |
-| Emanuel Holanda  | | | |
 
 <p align="center"><b>Grupo 2</b></p>
 <p align="center">Interação Humano-Computador<br /><br />
