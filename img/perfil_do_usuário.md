@@ -9,7 +9,9 @@ A partir do procedimento em questão, recolhemos dados demográficos relevantes 
 &emsp;&emsp;
 Assim, foi possível verificar uma idade marjoritária de 18 a 22 anos, na maioria de seus usuários sendo dependentes de terceiros, estudantes universitários e desempregados. É, entretanto, claramente evidente a comprovação de um questionário enviesado, uma vez que o mesmo foi divulgado de início no meio acadêmico. Porém isso não aniquila as informações coletadas. Afinal, a partir da coleta dessas informações, podemos tratar do desenvolvimento de uma persona em específico: o estudante universitário. Essa identificação permite o estabelecimento dos fatores fundamentais que serão utilizados como ponto de partida dos testes de usabilidade.</p>
 
-->fotos do questionário
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/demogr%C3%A1fico_01.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/aplicacao_01.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/aplicao_02.png)
 
 
 ### Personas
