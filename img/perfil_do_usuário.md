@@ -16,7 +16,7 @@ Assim, foi possível verificar uma idade marjoritária de 18 a 22 anos, na maior
 
 A Manuela foi criada tendo em vista os resultados do questionário aplicado em meio acadêmico. O qual tem a maioria dos usuário da OLX como estudantes universitários, na faixa de 18 à 22 anos de idade e usam a OLX não como uma renda alternativa, mas sim como uma aplicação para compras dos principais interesses entre estes jovens: eletrônicos e celulares. Identificamos, então os principais objetivos nesse meio, além de informações demográficas do usuário chave.
 
-->pdf
+![persona_01](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/persona_01.png)
 
 
 
