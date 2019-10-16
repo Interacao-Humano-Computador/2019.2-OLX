@@ -30,18 +30,41 @@ Sob outra perspectiva, ao aplicarmos o questionário - este contendo as mesmas p
 &emsp;&emsp;
 O primeiro perfil delineado desta segunda parte da metodologia consiste em indivíduos de mais de quarenta anos, do gênero feminino, financeiramente independente, empregado, e mestranda. Em sua grande maioria, as pessoas analisadas disseram não depender de rendas alternativas, porém, apresentaram-se como um significativo público para compra virtual. Essas caractersticas são mantidas para a persona. Os maiores interesses observados foram: moda e beleza, e materiais para a casa.
 </p>
-~~imagens dos resultados~~
 
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_compra_envio.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_financeira.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_renda_alternativa.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_faz_online.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_formacao.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_freq_olx.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_idade.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_interesse_app_compra.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_ocupacoes.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_olx_x_concorrentes.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_uso_app_compra.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_uso_renda_alternativa.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_utiliza_olx.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/questionario2_v2/form2_venda_com_envio.png)
 ~~O segundo perfil [acrescentar++]~~
 
 ## 1.3 Personas
 
+<p align="justify">
+&emsp;&emsp;
 A Manuela foi criada tendo em vista os resultados do primeiro questionário aplicado em meio acadêmico. O qual apresentou a maioria dos usuário da OLX como estudantes universitários, na faixa de 18 à 22 anos de idade e que usam a OLX não como uma renda alternativa, mas sim como uma aplicação para compras dos principais interesses entre estes jovens: eletrônicos e celulares. Identificamos, então os principais objetivos nesse meio, além de informações demográficas do usuário chave.
+</p>
 
-![persona_01](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/persona_01.png)
+![persona_01](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/persona_v1/persona_01.png)
 
-~~segunda persona= descrição e pdf
-terceira persona= descrição e pdf~~
+
+<p align="justify">
+&emsp;&emsp;
+Já Silvana foi criada baseada no segundo questionário e possui características bem diferentes de Manuela. Silvana é formada e possui mestrado, além de ser financeiramente independente, tem mais de 40 anos e já é bem estabelecida em seu emprego. Não depende de rendas alternativas e usurfrui pouco das que tem, no entanto, acessa muito sites de compra para ver produtos relacionados a moda, beleza e móveis para casa e, a partir disso, fazer compras. Essa visita aos sites de compra costuma acontecer pelo menos uma vez ao mês e ela utiliza a OLX tanto quanto os concorrentes.
+</p>
+
+![persona_02](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v2/personas_v2/persona_02_silvana.png)
+
+~~terceira persona= descrição e pdf~~
 
 ## 1.4 Análise Econômica do público alvo
 
