@@ -12,24 +12,32 @@ Para traçar as características dos usuários e definir personas a partir das i
 ## 1.2 Resultados
 <p align="justify">
 &emsp;&emsp;
-A partir do procedimento de aplicação de questionários, recolhemos dados demográficos relevantes para estabelecer a descrição dos nossos usuários chaves, além de informações a respeito das seguintes relações entre: ** 1) ** usuário e internet. ** 2) ** usuário e aplicações de compra e venda. ** 3) ** usuário e olx. Para evitar um estudo enviesado, nos preocupamos em aplicar questionários a públicos diferentes, bem como delimitar como participantes da metodologia apenas aqueles indivíduos que utilizam ou já utilizaram a plataforma em estudo.</p>
+A partir do procedimento de aplicação de questionários, recolhemos dados demográficos relevantes para estabelecer a descrição dos nossos usuários chaves, além de informações a respeito das seguintes relações entre: 1) usuário e internet. 
+2) usuário e aplicações de compra e venda. 3) usuário e olx. Para evitar um estudo enviesado, nos preocupamos em aplicar questionários a públicos diferentes, bem como delimitar como participantes da metodologia apenas aqueles indivíduos que utilizam ou já utilizaram a plataforma em estudo.</p>
 <p align="justify">
 &emsp;&emsp;
 Dessa forma, no primeiro questionário foi possível verificar uma idade marjoritária de 18 a 22 anos, na maioria de seus usuários sendo dependentes de terceiros, estudantes universitários e desempregados. A partir da coleta dessas informações, podemos tratar do desenvolvimento de uma persona em específico: o estudante universitário. Essa identificação permite o estabelecimento dos fatores fundamentais que serão utilizados como ponto de partida dos testes de usabilidade.</p>
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/demogr%C3%A1fico_01.png) 
-		**Imagem 1: **Dados demográficos coletados no primeiro formulário.
+
+**Imagem 1: ** Dados demográficos coletados no primeiro formulário.
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/aplicacao_01.png)
-		**Imagem 2: **Relação usuário e aplicações de compra e venda alternativas.
+
+**Imagem 2: ** Relação usuário e aplicações de compra e venda alternativas.
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/aplicao_02.png)
-		**Imagem 3: **Interesse do usuário.
+
+**Imagem 3: ** Interesse do usuário.
 
 <p align="justify">
 &emsp;&emsp;
 Sob outra perspectiva, ao aplicarmos outro questionário - este contendo as mesmas perguntas anteriores com outras perguntas relevantes adicionadas - à um público de maior idade, testemunhamos o ponto de partida para a descrição de um diferente tipo de usuário. Foram coletados dados que foram analisados não só no geral, como também no seu individual, uma vez que os dados foram bastante divergentes nesse outro interrogatório. Foi possível elaborar então mais de um tipo de persona, uma vez que esse questionário apresentava perfis discrepantes.
 </p>
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_idade.png)
-		**Imagem 4: **Divergência exemplificada.
+
+**Imagem 4: ** Divergência exemplificada.
 
 <p align="justify">
 &emsp;&emsp;
@@ -37,22 +45,33 @@ O primeiro perfil delineado nesta segunda parte da metodologia consiste em indiv
 </p>
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_financeira.png)
-		**Imagem 5: ** Informação sobre dependência financeira.
+
+**Imagem 5: ** Informação sobre dependência financeira.
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_formacao.png)
-		**Imagem 6: ** Formação educacional.
+
+**Imagem 6: ** Formação educacional.
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_uso_app_compra.png)
-		**Imagem 7: ** Frequência de uso para compras.
+
+**Imagem 7: ** Frequência de uso para compras.
 
 <p align="justify">
 &emsp;&emsp;
 O segundo perfil traçado com as informações presentes consiste em uma mulher, de 34 a 39 anos, financeiramente independente, que possui o seu próprio negócio e ensino superior completo. Embora ela seja pouco dependente de rendas alternativas, ela ainda assim utiliza plataformas de venda para prestar serviços, como um trabalho secundário, que é a ocupação que mais faz online: trabalhar.</p>
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_ocupacoes.png)
-		**Imagem 8: Dados sobre ocupações.**
+
+**Imagem 8: Dados sobre ocupações.**
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_renda_alternativa.png)
-		**Imagem 9: Informarções sobre dependência de renda alternativa**
+
+**Imagem 9: Informarções sobre dependência de renda alternativa**
+
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_faz_online.png)
-		**Imagem 10: ** Maiores interesses do usuário na internet.
+
+**Imagem 10: ** Maiores interesses do usuário na internet.
+
 ## 1.3 Personas
 
 <p align="justify">
@@ -74,6 +93,7 @@ Já Silvana foi criada baseada no segundo questionário e possui característica
 &emsp;&emsp;
 Por último...
 </p>
+
 ![persona_03](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/personas_v2/persona_03_joana.png)
 
 ## 1.4 Análise Econômica do público alvo
