@@ -28,7 +28,7 @@ Sob outra perspectiva, ao aplicarmos o questionário - este contendo as mesmas p
 
 <p align="justify">
 &emsp;&emsp;
-O primeiro perfil delineado desta segunda parte da metodologia consiste em indivíduos entre 34 e 39 anos, do gênero feminino, financeiramente independente, empregado, com o nível superior completo. Em sua grande maioria, as pessoas analisadas disseram não depender de rendas alternativas, porém, apresentaram-se como um significativo público para compra virtual. Os maiores interesses observados foram: eletrônicos, moda e beleza, e materiais para a casa.
+O primeiro perfil delineado desta segunda parte da metodologia consiste em indivíduos de mais de quarenta anos, do gênero feminino, financeiramente independente, empregado, e mestranda. Em sua grande maioria, as pessoas analisadas disseram não depender de rendas alternativas, porém, apresentaram-se como um significativo público para compra virtual. Essas caractersticas são mantidas para a persona. Os maiores interesses observados foram: moda e beleza, e materiais para a casa.
 </p>
 ~~imagens dos resultados~~
 
