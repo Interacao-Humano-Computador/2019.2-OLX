@@ -20,15 +20,15 @@ Dessa forma, no primeiro questionário foi possível verificar uma idade marjori
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/demogr%C3%A1fico_01.png) 
 
-**Imagem 1: ** Dados demográficos coletados no primeiro formulário.
+**Imagem 1:** Dados demográficos coletados no primeiro formulário.
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/aplicacao_01.png)
 
-**Imagem 2: ** Relação usuário e aplicações de compra e venda alternativas.
+**Imagem 2:** Relação usuário e aplicações de compra e venda alternativas.
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/aplicao_02.png)
 
-**Imagem 3: ** Interesse do usuário.
+**Imagem 3:** Interesse do usuário.
 
 <p align="justify">
 &emsp;&emsp;
@@ -37,7 +37,7 @@ Sob outra perspectiva, ao aplicarmos outro questionário - este contendo as mesm
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_idade.png)
 
-**Imagem 4: ** Divergência exemplificada.
+**Imagem 4:** Divergência exemplificada.
 
 <p align="justify">
 &emsp;&emsp;
@@ -46,15 +46,15 @@ O primeiro perfil delineado nesta segunda parte da metodologia consiste em indiv
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_financeira.png)
 
-**Imagem 5: ** Informação sobre dependência financeira.
+**Imagem 5:** Informação sobre dependência financeira.
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_formacao.png)
 
-**Imagem 6: ** Formação educacional.
+**Imagem 6:** Formação educacional.
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_uso_app_compra.png)
 
-**Imagem 7: ** Frequência de uso para compras.
+**Imagem 7:** Frequência de uso para compras.
 
 <p align="justify">
 &emsp;&emsp;
@@ -62,15 +62,15 @@ O segundo perfil traçado com as informações presentes consiste em uma mulher,
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_ocupacoes.png)
 
-**Imagem 8: Dados sobre ocupações.**
+**Imagem 8:** Dados sobre ocupações.
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_dependencia_renda_alternativa.png)
 
-**Imagem 9: Informarções sobre dependência de renda alternativa**
+**Imagem 9:** Informarções sobre dependência de renda alternativa
 
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/questionario2_v2/form2_faz_online.png)
 
-**Imagem 10: ** Maiores interesses do usuário na internet.
+**Imagem 10:** Maiores interesses do usuário na internet.
 
 ## 1.3 Personas
 
@@ -91,7 +91,10 @@ Já Silvana foi criada baseada no segundo questionário e possui característica
 
 <p align="justify">
 &emsp;&emsp;
-Por último...
+Por último, delineamos Joana, que possui 36 anos e é empresária e dono do próprio
+negócio, portanto, financeiramente independente. Ela apresenta ensino superior
+completo e é pouco dependente de rendas alternativas, porém usufri bastante dessas rendas.
+Como seus produtos para venda se tratam de serviços, ela pouco utiliza serviços de envio.
 </p>
 
 ![persona_03](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v2/personas_v2/persona_03_joana.png)
