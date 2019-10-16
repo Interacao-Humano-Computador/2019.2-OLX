@@ -9,6 +9,11 @@
 &emsp;&emsp;
 Para traçar as características dos usuários e definir personas a partir das informações observadas, foram realizados dois questionários: o primeiro fora aplicado no meio acadêmico, onde conseguimos delinear o retrato do estudante universitário; e o segundo questionário foi inserido em uma população de maior idade, de indivíduos já no mercado de trabalho e distantes do meio acadêmico. Assim, ao observar as informações coletadas, conseguimos desenvolver um estudo inicial para a elaboração do perfil do usuário.</p>
 
+Links para verificação dos formulários:
+[Formulário 1](http://https://docs.google.com/forms/d/e/1FAIpQLSeXrNvwuvj9fYDp0A9J1inoLqmJe6lPuQ-UN2VFewIJcYOlsg/viewform?vc=0&c=0&w=1 "Formulário 1")
+
+[Formulário 2](http://https://docs.google.com/forms/d/e/1FAIpQLSdlgtuOvdVGeuUO6RyFD6BPWboIl8ctL_d__UswV8U8zV4_TQ/viewform?vc=0&c=0&w=1 "Formulário 2")
+
 ## 1.2 Resultados
 <p align="justify">
 &emsp;&emsp;
