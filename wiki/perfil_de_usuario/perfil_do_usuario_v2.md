@@ -1,7 +1,7 @@
-|  Versões | Participantes | Data  |
-| ------------ | ------------ | ------------ |
-|  1.0 |  Gabriela Lemos, Iuri Severo | 14/10/2019 |
-|  2.0 |  Gabriela Lemos, Iuri Severo | 16/10/2019 |
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 14/10/2019 | 1.0 | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
+| 16/10/2019 | 2.0 | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
 
 # 1. Análise do perfil do usuário
 ## 1.1 Metodologia

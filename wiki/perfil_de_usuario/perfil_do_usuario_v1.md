@@ -1,3 +1,7 @@
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 14/10/2019 | 1.0 | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
+
 ## Análise do perfil do usuário
 <p align="justify">
 &emsp;&emsp;
