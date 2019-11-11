@@ -4,7 +4,7 @@
 
 # Avaliação Heurística
 
-### 1. Controle do usuário e liberdade
+### 3. Controle do usuário e liberdade
 **Verificação:**<br>
 O site abre uma nova aba sem solicitar ao usuário?<br>
 
@@ -16,6 +16,7 @@ O site abre uma nova aba sem solicitar ao usuário?<br>
 | **Perspectiva da tarefa:** | ( ) Problema Principal | (x) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**
 * **Contexto:** O usuário, ao ver um produto que gostaria vender, clicou na opção “Vender um igual” e uma nova aba foi aberta para solicitar a verificação da conta do mesmo. Após a verificação, a aba aberta era direcionada ao link de criação de um novo anúncio.<br>
 * **Causa:** O site abre uma nova aba sem aviso prévio ou solicitação<br>
@@ -24,7 +25,7 @@ O site abre uma nova aba sem solicitar ao usuário?<br>
 * **Correção possível:** Ajustar a funcionalidade de “Vender um igual” para copiar os dados do produto que se é desejado e redirecionar para uma página de criar anúncio já preenchida para que, desse modo, evite abrir uma nova aba.
 
 
-### 2. Prevenção de Erros
+### 5. Prevenção de Erros
 
 **Verificação:**<br>
 O site informa o modo correto de preencher dados?
@@ -38,6 +39,7 @@ Ele tem alguma ferramenta que valida a ação do usuário (ex: Sair do site no m
 | **Perspectiva da tarefa:** | (x) Problema Principal | ( ) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**<br>
 * **Contexto:** O usuário foi publicar um anúncio e, sem querer, saiu da página e perdeu tudo que havia escrito, além de ter perdido tempo preenchendo o preço do produto da maneira errada<br>
 * **Causa:** O site não fornece qualquer indicação de como se devem preencher os campos de escrita e não faz qualquer verificação antes de sair dá página atual<br>
@@ -47,7 +49,7 @@ Ele tem alguma ferramenta que valida a ação do usuário (ex: Sair do site no m
 
 
 
-### 3. Flexibilidade e eficiência de uso
+### 7. Flexibilidade e eficiência de uso
 
 **Verificação:**<br>
 O site é intuitivo para usuários iniciantes?<br>
@@ -60,6 +62,7 @@ O site é intuitivo para usuários iniciantes?<br>
 | **Perspectiva da tarefa:** | (x) Problema Principal | ( ) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**<br>
 * **Contexto:** O usuário, durante a navegação, demorou para encontrar uma forma de voltar para página inicial<br>
 * **Causa:** O botão de voltar para página principal fica na logomarca do site<br>
@@ -69,7 +72,7 @@ O site é intuitivo para usuários iniciantes?<br>
 <br><br>
 
 
-### 3. Flexibilidade e eficiência de uso
+### 7. Flexibilidade e eficiência de uso
 
 **Verificação:**<br>
 O site é intuitivo para usuários iniciantes?<br>
@@ -82,6 +85,7 @@ O site é intuitivo para usuários iniciantes?<br>
 | **Perspectiva da tarefa:** | (x) Problema Principal | ( ) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**<br>
 * **Contexto:** O usuário, durante a navegação, demorou para encontrar os filtros de navegação<br>
 * **Causa:** O site não possui indicação para o local onde ficam os filtros<br>
@@ -91,7 +95,7 @@ O site é intuitivo para usuários iniciantes?<br>
 <br><br>
 
 
-### 3. Flexibilidade e eficiência de uso
+### 7. Flexibilidade e eficiência de uso
 
 **Verificação:**<br>
 O site é intuitivo para usuários iniciantes?<br>
@@ -104,6 +108,7 @@ O site é intuitivo para usuários iniciantes?<br>
 | **Perspectiva da tarefa:** | (x) Problema Principal | ( ) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**<br>
 * **Contexto:** O usuário, durante a navegação, demorou para encontrar o botão de busca avançada<br>
 * **Causa:** O botão de busca avançada fica na parte superior do site<br>
@@ -113,7 +118,7 @@ O site é intuitivo para usuários iniciantes?<br>
 <br><br>
 
 
-### 3. Flexibilidade e eficiência de uso
+### 7. Flexibilidade e eficiência de uso
 
 **Verificação:**<br>
 O site é intuitivo para usuários iniciantes?<br>
@@ -126,6 +131,7 @@ O site é intuitivo para usuários iniciantes?<br>
 | **Perspectiva da tarefa:** | (x) Problema Principal | ( ) Problema Secundário |
 | **Perspectiva do Projeto:** | ( ) Problema Falso | ( ) Problema Novo | (x) Não se aplica |
 | | | | | | |
+
 **Descrição do Problema:**<br>
 * **Contexto:** O usuário, durante a navegação, não tinha certeza se o botão "Anunciar" era pra criar um novo anúncio.<br>
 * **Causa:** No botão apenas está escrito "Anunciar" e o botão está no canto superior da tela junto com alguns outros botões.<br>
@@ -135,7 +141,7 @@ O site é intuitivo para usuários iniciantes?<br>
 <br><br>
 
 
-### 3. Flexibilidade e eficiência de uso
+### 7. Flexibilidade e eficiência de uso
 **Verificação:**<br>
 O site possui suporte a usuários com necessidades especiais?<br>
 
@@ -157,7 +163,7 @@ O site possui suporte a usuários com necessidades especiais?<br>
 <br><br>
 
 
-### 4. Ajuda e documentação
+### 10. Ajuda e documentação
 **Verificação:**<br>
 O site possui uma página de ajuda ao usuário e/ou um FAQ?<br>
 
