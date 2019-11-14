@@ -3,6 +3,8 @@
 | 16/10/2019 | 1.0 | Planejamento da Avaliação do Protótipo de Papel | Emanuel Holanda |
 | 12/11/2019 | 2.0 | Planejamento da Avaliação do Protótipo de Papel | Emanuel Holanda |
 
+[Versão 1](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/wiki/planejamento_da_avaliacao_do_protitipo_de_baixa_fidelidade.md)
+
 ## Planejamento da Avaliação do Protótipo de Papel
 <p align="justify"> &emsp;&emsp;
 Tarefas a serem simuladas utilizando o protótipo de papel e o site normal da OLX, além da observação do entrevistado . O usuário  irá simular essas as tarefas abaixo: 
