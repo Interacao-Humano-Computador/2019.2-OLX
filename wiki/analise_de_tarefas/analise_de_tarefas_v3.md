@@ -24,14 +24,14 @@
 ## **Diagrama da Análise de Tarefas**
 
 ### Diagrama geral
-![]()
-
+![](https://user-images.githubusercontent.com/43069991/68847033-b9d35d80-06ac-11ea-8dd2-01e4d0e705b5.png)
+![](https://user-images.githubusercontent.com/43069991/68845971-09188e80-06ab-11ea-9b9a-0e9aba214864.png)
 
 ### Diagrama da tarefa "Vender"
-![]()
+![](https://user-images.githubusercontent.com/43069991/68846992-a58f6080-06ac-11ea-97d0-77603ef44709.png)
 
 ### Diagrama da tarefa "Comprar"
-![]()
+![](https://user-images.githubusercontent.com/43069991/68845914-f1410a80-06aa-11ea-9248-1363d00e0483.png)
 
 <p align="justify"> &emsp;&emsp;
 Como a OLX permite seus usuário comprarem e venderem produtos, o diagrama geral das tarefas é dividido em dois. Para uma melhor visualização, as tarefas que se relacionam foram pintadas na mesma cor e os diagramas próprios de cada tarefa principal também foi disponibilizado.
