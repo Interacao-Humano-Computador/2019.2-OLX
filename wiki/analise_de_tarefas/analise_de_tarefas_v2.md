@@ -1,9 +1,9 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 14/10/2019 | 1.0 | Análise de Tarefas | Emanuel Holanda |
+| 14/10/2019 | [1.0](https://github.com/Interacao-Humano-Computador/2019.2-OLX/wiki/An%C3%A1lise-de-Tarefas-1.0) | Análise de Tarefas | Emanuel Holanda |
 | 29/10/2019 | 2.0 | Análise de Tarefas | Emanuel Holanda e Iuri Severo |
 
-[Versão 1](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/wiki/analise_de_tarefas/analise_de_tarefas_v1.md)
+
 
 # Análise de Tarefas
 
@@ -16,15 +16,15 @@ A análise de tarefas possui diversos objetivos, porém, para o projeto analisad
 
 ### Diagrama geral
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas.png)
-[Clique aqui para ver a imagem ampliada](https://i.imgur.com/wqBrzt6.png)
+[Clique aqui para ver a imagem ampliada](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas.png)
 
 ### Diagrama da tarefa "Vender"
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas_vender.png)
-[Clique aqui para ver a imagem ampliada](https://i.imgur.com/hHOvRfy.png)
+[Clique aqui para ver a imagem ampliada](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas_vender.png)
 
 ### Diagrama da tarefa "Comprar"
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas_comprar.png)
-[Clique aqui para ver a imagem ampliada](https://i.imgur.com/grTREO8.png)
+[Clique aqui para ver a imagem ampliada](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/analise_de_tarefas/analise_de_tarefas_comprar.png)
 
 <p align="justify"> &emsp;&emsp;
 Como a OLX permite seus usuário comprarem e venderem produtos, o diagrama geral das tarefas é dividido em dois. Para uma melhor visualização, as tarefas que se relacionam foram pintadas na mesma cor e os diagramas próprios de cada tarefa principal também foi disponibilizado.

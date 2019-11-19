@@ -1,9 +1,7 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 16/10/2019 | 1.0 | Planejamento da Avaliação do Protótipo de Papel | Emanuel Holanda |
+| 16/10/2019 | [1.0](https://github.com/Interacao-Humano-Computador/2019.2-OLX/wiki/Planejamento-da-avalia%C3%A7%C3%A3o-do-Prot%C3%B3tipo-de-Papel-v1) | Planejamento da Avaliação do Protótipo de Papel | Emanuel Holanda |
 | 12/11/2019 | 2.0 | Planejamento da Avaliação do Protótipo de Papel | Emanuel Holanda |
-
-[Versão 1](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/wiki/planejamento_da_avaliacao_do_protitipo_de_baixa_fidelidade.md)
 
 ## Planejamento da Avaliação do Protótipo de Papel
 <p align="justify"> &emsp;&emsp;

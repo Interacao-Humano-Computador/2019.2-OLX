@@ -1,9 +1,7 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 13/10/2019 | 1.0 | Protótipo de Baixa Fidelidade  | Gabriela Lemos e Iuri Severo |
+| 13/10/2019 | [1.0](https://github.com/Interacao-Humano-Computador/2019.2-OLX/wiki/Prot%C3%B3tipo-de-Baixa-Fidelidade-1.0) | Protótipo de Baixa Fidelidade  | Gabriela Lemos e Iuri Severo |
 | 29/10/2019 | 2.0 | Protótipo de Baixa Fidelidade  | Gabriela Lemos e Iuri Severo |
-
-[Versão 1](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/wiki/prototipo_de_baixa_fidelidade/prototipo_de_baixa_fidelidade_v1.md)
 
 # Protótipo de Baixa Fidelidade
 
@@ -114,3 +112,7 @@ Segue abaixo imagens do protótipo de papel criado pelo grupo, foi utilizada a f
 <kbd>
     <img alt="Barra de Navegação após o login" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/prototipo_de_baixa_fidelidade/navbar_pos_login.png">
 </kbd>
+
+<br>
+
+Para baixar a versão de impressão do protótipo [clique aqui](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/wiki/prototipo_de_baixa_fidelidade/Prototipo_de_papel.docx)
