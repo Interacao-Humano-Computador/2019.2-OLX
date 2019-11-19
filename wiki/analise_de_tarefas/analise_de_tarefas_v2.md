@@ -1,9 +1,9 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 14/10/2019 | 1.0 | Análise de Tarefas | Emanuel Holanda |
+| 14/10/2019 | [1.0](analise_de_tarefas_v1.md) | Análise de Tarefas | Emanuel Holanda |
 | 29/10/2019 | 2.0 | Análise de Tarefas | Emanuel Holanda e Iuri Severo |
 
-[Versão 1](analise_de_tarefas_v1.md)
+
 
 # Análise de Tarefas
 

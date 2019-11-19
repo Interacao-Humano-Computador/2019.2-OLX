@@ -1,4 +1,3 @@
-
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
 | 14/10/2019 | [1.0](analise_de_tarefas_v1.md) | Análise de Tarefas | Emanuel Holanda |
