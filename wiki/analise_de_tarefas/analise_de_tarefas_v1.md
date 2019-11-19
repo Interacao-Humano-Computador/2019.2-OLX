@@ -1,3 +1,4 @@
+
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
 | 14/10/2019 | 1.0 | Análise de Tarefas | Emanuel Holanda |
