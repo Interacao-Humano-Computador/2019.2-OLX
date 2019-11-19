@@ -1,8 +1,8 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 14/10/2019 | [1.0](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/wiki/analise_de_tarefas/analise_de_tarefas_v1.md) | Análise de Tarefas | Emanuel Holanda |
-| 29/10/2019 | [2.0](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/wiki/analise_de_tarefas/analise_de_tarefas_v2.md) | Análise de Tarefas | Emanuel Holanda e Iuri Severo |
+| 14/10/2019 | [1.0](analise_de_tarefas_v1.md) | Análise de Tarefas | Emanuel Holanda |
+| 29/10/2019 | [2.0](analise_de_tarefas_v2.md) | Análise de Tarefas | Emanuel Holanda e Iuri Severo |
 | 13/11/2019 | 3.0 | Refatoração        | Gabriela Lemos                |
 
 # Análise de Tarefas
