@@ -13,16 +13,16 @@ A partir do procedimento em questão, recolhemos dados demográficos relevantes 
 &emsp;&emsp;
 Assim, foi possível verificar uma idade marjoritária de 18 a 22 anos, na maioria de seus usuários sendo dependentes de terceiros, estudantes universitários e desempregados. É, entretanto, claramente evidente a comprovação de um questionário enviesado, uma vez que o mesmo foi divulgado de início no meio acadêmico. Porém isso não aniquila as informações coletadas. Afinal, a partir da coleta dessas informações, podemos tratar do desenvolvimento de uma persona em específico: o estudante universitário. Essa identificação permite o estabelecimento dos fatores fundamentais que serão utilizados como ponto de partida dos testes de usabilidade.</p>
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/demogr%C3%A1fico_01.png)
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/aplicacao_01.png)
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/aplicao_02.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v1/questionario_v1/demogr%C3%A1fico_01.png)
+![](https://github.com/Interacao-Humano-Computador/2019.2-OLX/blob/master/img/perfil_de_usuario/v1/questionario_v1/aplicacao_01.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/questionario_v1/aplicao_02.png)
 
 
 ### Personas
 
 A Manuela foi criada tendo em vista os resultados do questionário aplicado em meio acadêmico. O qual tem a maioria dos usuário da OLX como estudantes universitários, na faixa de 18 à 22 anos de idade e usam a OLX não como uma renda alternativa, mas sim como uma aplicação para compras dos principais interesses entre estes jovens: eletrônicos e celulares. Identificamos, então os principais objetivos nesse meio, além de informações demográficas do usuário chave.
 
-![persona_01](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/persona_01.png)
+![persona_01](https://raw.githubusercontent.com/Interacao-Humano-Computador/2019.2-OLX/master/img/perfil_de_usuario/v1/persona_v1/persona_01.png)
 
 
 

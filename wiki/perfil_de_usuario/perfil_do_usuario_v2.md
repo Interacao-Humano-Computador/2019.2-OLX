@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 14/10/2019 | 1.0 | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
+| 14/10/2019 | [1.0](https://github.com/Interacao-Humano-Computador/2019.2-OLX/wiki/Perfil-de-Usu%C3%A1rio-1.0) | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
 | 16/10/2019 | 2.0 | Perfil de usuário  | Gabriela Lemos e Iuri Severo |
 
 # 1. Análise do perfil do usuário
