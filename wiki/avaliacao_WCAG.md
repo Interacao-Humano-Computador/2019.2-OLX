@@ -4,7 +4,7 @@
 
 # Avaliação do WCAG
 
-<p align=justify"> &emsp;&emsp;
+<p align="justify"> &emsp;&emsp;
 A avaliação do WCAG, Web Content Accessibility Guidelines (Diretrizes de Acessibilidade para o Conteúdo da Web), tem como função tornar um site mais acessível aos usuário e está presente no World Wide Web Consortium, W3C.
 &emsp;&emsp;
 Para fazer essa validação no site da [OLX](olx.com.br) foi utilizada a ferramenta [AccessMonitor](http://www.acessibilidade.gov.pt/accessmonitor) que é um validador automático que verifica a aplicação das diretrizes de acessibilidade nos conteúdos HTML de um sítio web. Mais detalhes sobre a ferramenta podem ser vistos em sua [Nota Técnica](http://www.acessibilidade.gov.pt/accessmonitor/nota_tecnica.html).
