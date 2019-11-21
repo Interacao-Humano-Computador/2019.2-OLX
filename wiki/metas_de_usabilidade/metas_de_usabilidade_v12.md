@@ -1,7 +1,8 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 11/09/2019 | [1.0](metas_usabilidade_v1.md) | Metas de usabilidade  | Iuri Severo e Pedro Igor |
+| 11/09/2019 | 1.0 | Metas de usabilidade  | Iuri Severo e Pedro Igor |
 | 14/10/2019 | 1.1 | Metas de usabilidade  | Iuri Severo |
+| 14/10/2019 | 1.2 | Metas de usabilidade  | Iuri Severo |
 
 # Metas de usabilidade
 ### De acordo com Jakob Nielsen (1993), existem 6 metas de usabilidade, elas são:
